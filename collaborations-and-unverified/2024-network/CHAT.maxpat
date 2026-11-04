@@ -46,7 +46,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 6.0, 60.692228290702815, 148.0, 503.0 ],
-					"text" : "Also:\n\nHier erscheint alles, was von allen GesprÃ¤chsteilnehmern gesendet wird------>\n\n\n\n\n\n\n\n\n\n\n\n\nHier schreibt ihr Nachrichten------>\nUnd dann option+Enter um zu senden\n\n\nHier einige Emojis---->\nIm Internet kÃ¶nnt ihr andere finden\n\n\n\n\n\n\n\n\n\n"
+					"text" : "Also:\n\nHier erscheint alles, was von allen Gesprächsteilnehmern gesendet wird------>\n\n\n\n\n\n\n\n\n\n\n\n\nHier schreibt ihr Nachrichten------>\nUnd dann option+Enter um zu senden\n\n\nHier einige Emojis---->\nIm Internet könnt ihr andere finden\n\n\n\n\n\n\n\n\n\n"
 				}
 
 			}
@@ -621,7 +621,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 646.46974515914917, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "âï¸"
+					"text" : "❗️"
 				}
 
 			}
@@ -633,7 +633,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 614.96974515914917, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð¢"
+					"text" : "🟢"
 				}
 
 			}
@@ -645,7 +645,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 583.46974515914917, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "â"
+					"text" : "❌"
 				}
 
 			}
@@ -657,7 +657,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 555.107963979244232, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð"
+					"text" : "🎉"
 				}
 
 			}
@@ -669,7 +669,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 522.454903066158295, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "â³"
+					"text" : "⏳"
 				}
 
 			}
@@ -681,7 +681,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 490.954903066158295, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð"
+					"text" : "🎛"
 				}
 
 			}
@@ -693,7 +693,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 457.6215700507164, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð»"
+					"text" : "💻"
 				}
 
 			}
@@ -705,7 +705,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 422.247420728206635, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ðº"
+					"text" : "🍺"
 				}
 
 			}
@@ -717,7 +717,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 388.318849623203278, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð¹"
+					"text" : "🐹"
 				}
 
 			}
@@ -729,7 +729,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 356.818849623203278, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð"
+					"text" : "🍄"
 				}
 
 			}
@@ -741,7 +741,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 325.318849623203278, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ðª"
+					"text" : "💪"
 				}
 
 			}
@@ -753,7 +753,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 293.818849623203278, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð¤¡"
+					"text" : "🤡"
 				}
 
 			}
@@ -765,7 +765,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 260.665005743503571, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð¿"
+					"text" : "👿"
 				}
 
 			}
@@ -791,7 +791,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1956.145845532417297, 405.157056093215942, 51.0, 24.0 ],
-					"text" : "route â¤ï¸"
+					"text" : "route ❤️"
 				}
 
 			}
@@ -892,7 +892,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 1810.145845532417297, 407.157056093215942, 51.0, 24.0 ],
-					"text" : "route ð"
+					"text" : "route 👍"
 				}
 
 			}
@@ -1014,8 +1014,8 @@
 					"basictuning" : 440,
 					"data" : 					{
 						"clips" : [ 							{
-								"absolutepath" : "Macintosh HD - Data:/Users/dmitriishchukin/Desktop/untitled folder/Ð¿ÑÐ¾ÑÐ¸Ðµ/Ð°Ð¹ÑÐ¾Ð½ 5.mp3",
-								"filename" : "Ð°Ð¹ÑÐ¾Ð½ 5.mp3",
+								"absolutepath" : "Macintosh HD - Data:/Users/dmitriishchukin/Desktop/untitled folder/прочие/айфон 5.mp3",
+								"filename" : "айфон 5.mp3",
 								"filekind" : "audiofile",
 								"id" : "u696003402",
 								"loop" : 0,
@@ -1109,7 +1109,7 @@
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1435.875001788139343, 481.929788443710322, 100.0, 50.0 ],
-					"text" : "15:34:40 \"Dimi: ðº\""
+					"text" : "15:34:40 \"Dimi: 🍺\""
 				}
 
 			}
@@ -1121,7 +1121,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 496.25499153137207, 1363.093620359897614, 150.0, 33.0 ],
-					"text" : "spalte ÐºÐ¾Ð»Ð¾Ð½Ð½Ð°\nriehe ÑÑÐ´"
+					"text" : "spalte колонна\nriehe ряд"
 				}
 
 			}
@@ -1325,7 +1325,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 229.165005743503571, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð¯"
+					"text" : "💯"
 				}
 
 			}
@@ -1337,7 +1337,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 197.665005743503571, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "ð"
+					"text" : "👍"
 				}
 
 			}
@@ -1349,7 +1349,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 166.165005743503571, 367.929787788059116, 29.5, 24.0 ],
-					"text" : "â¤ï¸"
+					"text" : "❤️"
 				}
 
 			}
@@ -1576,7 +1576,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 521.854777991771698, 1106.640268325805664, 150.0, 154.0 ],
-					"text" : "1. Ð¡Ð¾Ð·Ð´Ð°ÑÑ ÑÐ²Ð¾Ñ ÑÐ¾ÑÐºÑ Ð´Ð¾ÑÑÑÐ¿Ð°  \n2. updsend - Ð¿Ð¾ÑÐ¾Ð¼ IPÐ°Ð´ÑÐµÑ Ð¸ Ð¿Ð¾ÑÑ. ÐÐ¾ÑÑ Ð¿ÑÐ¸Ð´ÑÐ¼Ð°ÑÑ Ð¼Ð¾Ð¶Ð½Ð¾ ÑÐ°Ð¼Ð¾Ð¼Ñ  \nÑÑÐ¾Ð±Ñ ÑÐ·Ð½Ð°ÑÑ ÑÐ²Ð¾Ð¹ IP Ð°Ð´ÑÐµÑ (Ð¿Ð¾Ð²Ð¸Ð´Ð¸Ð¼Ð¾Ð¼Ñ, Ð¾Ð½ Ð³ÐµÐ½ÐµÑÐ¸ÑÑÐµÑÑÑ ÑÐ°Ð¼) - option Ð¸ Ð·Ð½Ð°ÑÐ¾Ðº Ð²Ð»Ð°Ð½Ð°\n"
+					"text" : "1. Создать свою точку доступа  \n2. updsend - потом IPадрес и порт. Порт придумать можно самому  \nчтобы узнать свой IP адрес (повидимому, он генерируется сам) - option и значок влана\n"
 				}
 
 			}
@@ -1589,7 +1589,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 1435.875001788139343, 281.958337068557739, 136.0, 24.0 ],
-					"text" : "Dimi: ðº"
+					"text" : "Dimi: 🍺"
 				}
 
 			}
